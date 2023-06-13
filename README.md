@@ -1,7 +1,7 @@
 # Projeto de Sistema de Usuários com Spring Boot e MongoDB
 Este é um projeto desenvolvido pelo professor Nélio Alves, que utiliza o framework Spring Boot e o banco de dados MongoDB. O objetivo do projeto é construir um sistema de usuários capaz de criar postagens e fazer comentários.
 
-Funcionalidades
+## Funcionalidades
 O sistema de usuários possui as seguintes funcionalidades:
 
 Registro de usuários: Os usuários podem se registrar no sistema fornecendo informações básicas, como nome, email e senha.
@@ -30,13 +30,13 @@ Configure as informações do banco de dados MongoDB no arquivo de configuraçã
 Execute o projeto a partir da classe principal (geralmente chamada de Application ou Main).
 O projeto será iniciado e estará disponível em http://localhost:8080.
 
-Contribuição
+## Contribuição
 Este projeto foi desenvolvido pelo professor Nélio Alves como parte de um curso de programação. Se você quiser contribuir com melhorias ou correções, fique à vontade para fazer um fork do repositório e enviar suas alterações por meio de um pull request.
 
-Contato
+## Contato
 Se você tiver alguma dúvida ou precisar de mais informações sobre o projeto, entre em contato com o professor Nélio Alves por meio dos seguintes canais:
 
 Website: www.nelioalves.com
 Email: contato@nelioalves.com
-Licença
+## Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
