@@ -10,12 +10,12 @@ Criação de postagens: Os usuários autenticados podem criar postagens contendo
 Visualização de postagens: Os usuários podem visualizar todas as postagens existentes no sistema.
 Comentários em postagens: Os usuários podem adicionar comentários às postagens existentes, fornecendo seu nome e o conteúdo do comentário.
 Visualização de comentários: Os usuários podem ver os comentários associados a cada postagem.
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 O projeto é desenvolvido utilizando as seguintes tecnologias:
 
 Spring Boot: Um framework Java que simplifica o desenvolvimento de aplicativos baseados em Spring. Ele fornece uma configuração inicial e um conjunto de bibliotecas para facilitar o desenvolvimento.
 MongoDB: Um banco de dados NoSQL orientado a documentos, que armazena dados em formato JSON-like chamado BSON. É escalável, flexível e de alta performance.
-Configuração do Ambiente
+## Configuração do Ambiente
 Para configurar o ambiente de desenvolvimento, siga as etapas abaixo:
 
 Certifique-se de ter o Java Development Kit (JDK) instalado na versão adequada.
