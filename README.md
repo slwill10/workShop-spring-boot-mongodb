@@ -28,7 +28,7 @@ Para executar o projeto, siga os passos a seguir:
 Abra o projeto em sua IDE preferida.
 Configure as informações do banco de dados MongoDB no arquivo de configuração do Spring Boot.
 Execute o projeto a partir da classe principal (geralmente chamada de Application ou Main).
-O projeto será iniciado e estará disponível em http://localhost:27017.
+O projeto será iniciado e estará disponível em http://localhost:8080.
 
 ## Contribuição
 Este projeto foi desenvolvido pelo professor Nélio Alves como parte de um curso de programação. Se você quiser contribuir com melhorias ou correções, fique à vontade para fazer um fork do repositório e enviar suas alterações por meio de um pull request.
